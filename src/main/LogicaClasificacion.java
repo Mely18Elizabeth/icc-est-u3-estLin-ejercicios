@@ -7,7 +7,7 @@ public class LogicaClasificacion {
     /**
      * Invierte una cadena de texto utilizando una pila (Stack).
      *
-     * @param texto Cadena original a invertir.
+     * @param texto Cadena original a invertir.-----
      * @return Cadena invertida.
      *
      *         Ejemplo:
