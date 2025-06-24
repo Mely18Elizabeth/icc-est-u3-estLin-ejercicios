@@ -12,7 +12,7 @@ public class LogicaClasificacion {
      *
      *         Ejemplo:
      *         Entrada: "Hola Mundo"
-     *         Salida: "odnuM aloH"  ejercicio 1
+     *         Salida: "odnuM aloH"  ejercicio 1----
      */
 
      public String invertirCadena(String texto){
