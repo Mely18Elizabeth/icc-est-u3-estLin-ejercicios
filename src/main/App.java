@@ -31,10 +31,10 @@ public class App {
         pila.push(1);
         pila.push(4);
         pila.push(2);
-        System.out.println("ordenarPila([3, 1, 4, 2]): " + logica.ordenarPila(pila));
+        System.out.println("ordenarPila([3, 1, 4, 2]): Resultado= " + logica.ordenarPila(pila));
 
         // Probar clasificarPorParidad
         LinkedList<Integer> original = new LinkedList<>(Arrays.asList(1, 2, 3, 4, 5, 6));
-        System.out.println("clasificarPorParidad([1, 2, 3, 4, 5, 6]): " + logica.clasificarPorParidad(original));
+        System.out.println("clasificarPorParidad([1, 2, 3, 4, 5, 6]): Resultado= " + logica.clasificarPorParidad(original));
     }
 }
